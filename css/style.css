@@ -1,0 +1,49 @@
+body{
+	background-color:#222222 !important;
+}
+
+.header {
+	background-color:#111111;
+	color:000;
+}
+
+.teaser {
+	background-color:#444444;
+	color:#000;
+}
+
+nav li{
+	list-style: none outside none;
+	display:inline;
+	margin-right:50px;
+}
+
+nav li:hover{
+	background-color:#444444;
+}
+
+.content {
+	background-color:#444444;
+	color:#000;
+	height:500px;
+}
+
+.content .left{
+	background-color:#222222;
+	height:500px;
+	overflow: auto;
+}
+
+.content .right{
+	background-color:#222222;
+	height:500px;
+	overflow: auto;
+}
+
+.footer {
+	background-color:#111111;
+	color:000;
+	height:100px;
+	bottom:0;
+	position:static;
+}
