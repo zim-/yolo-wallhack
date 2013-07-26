@@ -31,13 +31,13 @@ nav li:hover{
 .content .left{
 	background-color:#222222;
 	height:500px;
-	overflow: auto;
+	overflow: hidden;
 }
 
 .content .right{
 	background-color:#222222;
 	height:500px;
-	overflow: auto;
+	overflow: hidden;
 }
 
 .footer {
